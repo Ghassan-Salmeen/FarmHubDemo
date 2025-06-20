@@ -17,39 +17,30 @@ Kickstart your smart farming journey with a seamless setup process.
 
 ---
 
-### 2. **Dashboard** 📊🖥️
-![Dashboard](snapshots/dashboard_placeholder.png)
+### 2. **Smart Hub: Dashboard & AI Assistant** 📊🤖
+![Dashboard](snapshots/ai_dashboard_placeholder.png)
 
-Your central hub for real-time monitoring of your hydroponic farms.
 
-- **Real-Time Data:** Get live updates on crucial parameters for your plants' health, including pH Level, Temperature, Humidity, TDS (Total Dissolved Solids), Nutrient Levels, and Light Conditions. 📈
-- **Multi-Farm Management:** Add and manage multiple farm units from a single dashboard. ➕🌾
-- **Intuitive Visuals:** Data is displayed using clear gauges and graphs, making it easy to understand the status of your farms at a glance. All data is synced in real-time with Firebase. 📊
+Your central command center for real-time monitoring and expert advice, all in one place.
 
----
-
-### 3. **AI Assistant** 🤖💬
-![AI Assistant](snapshots/ai_assistant_placeholder.png)
-
-Get expert advice anytime you need it with our integrated AI Assistant, powered by Gemini. 💡
-
-- **Ask Anything:** Get instant answers to your hydroponics questions, from "Best crops for beginners?" to complex queries about nutrient solutions. 🤔
-- **24/7 Support:** Your AI-powered agronomist is always ready to help you solve problems and grow smarter. 🧠
+- **Real-Time Dashboard:** Get live updates on crucial parameters like pH, Temperature, Humidity, TDS, Nutrient Levels, and Light Conditions using intuitive gauges and graphs. 📈
+- **Multi-Farm Management:** Add and manage multiple farm units from a single screen. ➕🌾
+- **Integrated AI Assistant:** Get instant answers to your hydroponics questions from our AI-powered agronomist, powered by Gemini. From simple tips to complex solutions, help is always available. 💡🧠
 
 ---
 
-### 4. **Diagnose & Recommend** 🩺🌿
+### 3. **Health Diagnosis & Crop Recommendations** 🩺🌿
 ![Diagnose](snapshots/diagnose_placeholder.png)
 
-Smart tools to keep your crops healthy and thriving. ✨
+Smart tools to keep your crops healthy and help you decide what to grow next. ✨
 
 - **Plant Disease Detection:** Upload a photo of your plant, and our AI will detect potential diseases, helping you to take timely action. 📸🦠
-- **Crop Recommendation:** Receive personalized suggestions on what to plant based on your location, temperature, available space, and more. 🌱📍
-- **Plant Database:** Browse a comprehensive database of crops with detailed information on their optimal growing conditions (Temperature, pH, Humidity, TDS, etc.). 📚
+- **Personalized Crop Recommendations:** Receive suggestions on what to plant based on your location, temperature, available space, and more. 🌱📍
+- **Comprehensive Plant Database:** Browse a rich database of crops with detailed information on their optimal growing conditions (Temperature, pH, Humidity, etc.). 📚
 
 ---
 
-### 5. **Learning & Community** 📚🤝
+### 4. **Learning & Community** 📚🤝
 ![Community](snapshots/community_placeholder.png)
 
 Learn from experts and connect with a community of fellow growers. 🌍
