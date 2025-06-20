@@ -7,7 +7,7 @@ Welcome to **FarmHub**! 🎉🌿 This all-in-one app is designed to empower hydr
 ## **🌟 Features 🌟**
 
 ### 1. **Onboarding & Setup** 🚀📲
-![Onboarding](snapshots/onboarding_placeholder.png)
+![Onboarding](snapshots/onboarding_placeholder.jpg)
 
 Kickstart your smart farming journey with a seamless setup process.
 
@@ -18,7 +18,7 @@ Kickstart your smart farming journey with a seamless setup process.
 ---
 
 ### 2. **Smart Hub: Dashboard & AI Assistant** 📊🤖
-![Dashboard](snapshots/ai_dashboard_placeholder.png)
+![Dashboard](snapshots/ai_dashboard_placeholder.jpg)
 
 
 Your central command center for real-time monitoring and expert advice, all in one place.
@@ -30,7 +30,7 @@ Your central command center for real-time monitoring and expert advice, all in o
 ---
 
 ### 3. **Health Diagnosis & Crop Recommendations** 🩺🌿
-![Diagnose](snapshots/diagnose_placeholder.png)
+![Diagnose](snapshots/diagnose_placeholder.jpg)
 
 Smart tools to keep your crops healthy and help you decide what to grow next. ✨
 
@@ -41,7 +41,7 @@ Smart tools to keep your crops healthy and help you decide what to grow next. �
 ---
 
 ### 4. **Learning & Community** 📚🤝
-![Community](snapshots/community_placeholder.png)
+![Community](snapshots/community_placeholder.jpg)
 
 Learn from experts and connect with a community of fellow growers. 🌍
 
